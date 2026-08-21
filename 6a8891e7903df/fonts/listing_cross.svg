@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_333264" data-name="Group 333264" transform="translate(-12109 -21608)">
+    <circle id="Ellipse_16152" data-name="Ellipse 16152" class="cls-1" cx="27" cy="27" r="27" transform="translate(12109 21608)"/>
+    <path id="close_4_" data-name="close (4)" d="M13.307,11.382l8.758-8.758A1.457,1.457,0,1,0,20,.563L11.246,9.321,2.488.563A1.457,1.457,0,0,0,.427,2.624l8.758,8.758L.427,20.14A1.457,1.457,0,1,0,2.488,22.2l8.758-8.758L20,22.2a1.457,1.457,0,1,0,2.061-2.061Zm0,0" transform="translate(12124.753 21623.617)"/>
+  </g>
+</svg>

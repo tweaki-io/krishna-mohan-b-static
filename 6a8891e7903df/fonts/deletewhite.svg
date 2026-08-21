@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.834" height="14.465" viewBox="0 0 11.834 14.465">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Web_1920_17_delete" data-name="Web 1920 – 17 delete" transform="translate(-1254 -382)">
+    <path id="Path_147849" data-name="Path 147849" class="cls-1" d="M13.862,7a.657.657,0,0,0-.657.657v7.357A1.262,1.262,0,0,1,11.883,16.2H6.636a1.262,1.262,0,0,1-1.321-1.189V7.657A.657.657,0,1,0,4,7.657v7.357a2.576,2.576,0,0,0,2.636,2.5h5.246a2.576,2.576,0,0,0,2.636-2.5V7.657A.657.657,0,0,0,13.862,7Z" transform="translate(1250.658 378.945)"/>
+    <path id="Path_147850" data-name="Path 147850" class="cls-1" d="M14.177,2.972h-2.63V1.657A.657.657,0,0,0,10.889,1H6.945a.657.657,0,0,0-.657.657V2.972H3.657a.657.657,0,1,0,0,1.315H14.177a.657.657,0,1,0,0-1.315Zm-6.574,0V2.315h2.63v.657Z" transform="translate(1251 381)"/>
+    <path id="Path_147851" data-name="Path 147851" class="cls-1" d="M10.315,14.26v-4.6A.657.657,0,1,0,9,9.657v4.6a.657.657,0,1,0,1.315,0Z" transform="translate(1248.945 378.26)"/>
+    <path id="Path_147852" data-name="Path 147852" class="cls-1" d="M14.315,14.26v-4.6a.657.657,0,0,0-1.315,0v4.6a.657.657,0,1,0,1.315,0Z" transform="translate(1247.574 378.26)"/>
+  </g>
+</svg>

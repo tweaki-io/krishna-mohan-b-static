@@ -1,0 +1,15 @@
+<svg id="back_icon_mobile" data-name="back icon mobile" xmlns="http://www.w3.org/2000/svg" width="24.96" height="24.96" viewBox="0 0 24.96 24.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1a1b1d;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_15649" data-name="Rectangle 15649" class="cls-1" width="24.96" height="24.96" transform="translate(0 0)"/>
+  <path id="Path_3451" data-name="Path 3451" class="cls-2" d="M290.528,387.12l6.141-5.374a1,1,0,1,0-1.323-1.5l-8.01,7.087a1,1,0,0,0,0,1.5l8.01,7.053a1,1,0,0,0,1.32-1.5l-6.139-5.405-1.077-.9Z" transform="translate(-280.759 -375.507)"/>
+</svg>
